@@ -1,4 +1,4 @@
-module puleeno/tarantula
+module github.com/puleeno/tarantula
 
 go 1.17
 
