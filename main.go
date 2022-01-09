@@ -1,6 +1,8 @@
 package main
 
-import "puleeno/tarantula/cli"
+import (
+	"github.com/puleeno/tarantula/cli"
+)
 
 func main() {
 	tarantula := cli.Tarantula{}

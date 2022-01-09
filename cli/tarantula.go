@@ -2,7 +2,7 @@ package cli
 
 import (
 	"github.com/bobziuchkovski/writ"
-	"puleeno/tarantula/core/downloader"
+	"github.com/puleeno/tarantula/core/downloader"
 )
 
 type Tarantula struct {

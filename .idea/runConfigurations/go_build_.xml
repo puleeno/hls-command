@@ -4,6 +4,7 @@
     <working_directory value="$PROJECT_DIR$" />
     <go_parameters value="-i" />
     <kind value="PACKAGE" />
+    <package value="github.com/puleeno/tarantula" />
     <directory value="$PROJECT_DIR$" />
     <filePath value="$PROJECT_DIR$" />
     <method v="2" />
