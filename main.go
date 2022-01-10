@@ -8,5 +8,5 @@ func main() {
 	tarantula := cli.Tarantula{}
 
 	tarantula.ParseArgs()
-	tarantula.InitDownloader()
+	tarantula.Execute()
 }
