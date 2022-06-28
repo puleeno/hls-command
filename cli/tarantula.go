@@ -8,7 +8,7 @@ import (
 )
 
 type Tarantula struct {
-	HelpFlag bool              `flag:"help" description:"Display this help message and exit"`
+	HelpFlag bool             `flag:"help" description:"Display this help message and exit"`
 	Download command.Download `command:"download" alias:"dl" description:"Download a stream video URL"`
 
 	command    *writ.Command
